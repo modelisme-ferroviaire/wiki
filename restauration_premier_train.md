@@ -91,4 +91,36 @@ Plusieurs d'entre eux sont cassés, je vais devoir les remplacer également.
 ### fiches
 
 
+# Stratégie de restauration 
+
+## Terminer le nettoyage de la locomotive
+
+## Faire l'inventaire de ce qui manque
+
+## Remplacert le matériel manquant ou défectueux
+
+Ne pas oublier les éclisses à changer.
+
+## Trouver un plan pour monter le circuit
+
+Contre plaqué 8 à 10 mm d'épaisseur. Surface totale de au moins 1m x 2,20m. Une seule pièce parait difficilement gérable. Voir si on peut moduler. Prévoir de la marge pour modification dde voies ( pour le décor, il y aura peut-être des changements à faire : briser la monotonie de l'ovale, mais ça on verra plus tard).
+
+## Monter le circuit te qu'il devait être à l'origine et le faire fonctionner
+
+## En parallèle se renseigner sur les méthodes de décor du matériel ferroviaire. Prévoir les ajustements adéquats.
+
+## Imaginer une idée de décor
+
+## Fixer les rails
+
+## Fixer le décor
+
+## Réfléchir à l'éclairage
+
+## Trouver un panneau de fond.
+
+## Piloter tou t ça via ordinateur.
+
+
+Projet ambitieux ...
 
