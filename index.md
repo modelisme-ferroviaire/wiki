@@ -8,7 +8,7 @@ Certes, pour l'instant ce n'est pas de la grande écriture, ni même rien d'extr
 
 Cette série de posts concerneront la restauration de mon premier train électrique. 
 
-1. [Introduction](demarrage.md)
+1. [Introduction](restauration_premier_train.md)
 
 ## Electronique
 
