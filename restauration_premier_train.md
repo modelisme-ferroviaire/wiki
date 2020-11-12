@@ -44,7 +44,25 @@ Puis je suis tombé, en cherchant du matériel sur le net, sur les deux coffrets
 
 Un peu cher .... Mais j'ai craqué, et je l'ai reçu. Je vais pouvoir terminer ce que j'ai commencé étant petit.
 
-Possible de remplacer le matériel cassé ou perdu => pièces détachées dispo sur ebay. Les boites contiennent un plan avec les référencess des rails utilisés dans le set.
+Possible de remplacer le matériel cassé ou perdu => pièces détachées dispo sur ebay. Les boites contiennent un plan avec les référencess des rails utilisés dans le set. Facile de savoir ce qu'il manque pour le remplacer ...
+
+A terme : voir s'il y a possibilité de le commander par ordinateur ... Maois dans un poremier temps, le restaurer tel quel.
+
+# Inventaire 
+
+## Matériel roulant
+
+### Locomotive
+
+La locomotive est une petite loco vapeur. Elle est actuellemen,t démontée pour un petit nettoyage. J'ai tout enlevé (moteur, roues, etc ....)  pour tout décrasser et huiler. Elle a pas trop mal vieilli. Il y a juste un truc qui m'embête : la caisse est un peu cassé (l'une des échelles permettant d'accéder à la cabine). Je ne sais pas encore comment je vais la réparer.
+
+### Wagons
+
+#### Wagon trémie
+
+#### Wagon citerne
+
+#### Wagon tombereau
 
 
 
