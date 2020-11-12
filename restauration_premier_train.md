@@ -64,5 +64,31 @@ La locomotive est une petite loco vapeur. Elle est actuellemen,t démontée pour
 
 #### Wagon tombereau
 
+## Alimentation 
+
+Il s'agit d'un transfo que je garde depuis longtemps. Aux dernieres nouvelles il marche encore.
+
+## Rails et aiguillages 
+
+Le problème des rails : éclisses qui ne tiennenet plus. Certains ce sont un peu oxydés ou sont un peu cassés (traverses, ...). A une époque ou j'ai tenté de me remettre au train, j'ai essayé de souder des fils sur l'extérieur du rail, mais ça a fait fondre les traverses ... MAis ce n'est pas dramatique, ça se trouve sur ebay.
+
+### Rails droits
+
+### Rails courbes
+
+### Aiguillages 
+
+Plusieurs d'entre eux sont cassés, je vais devoir les remplacer également.
+
+### Rails "spéciaux"
+
+## Système de commande électrique
+
+### Interrupteurs d'aiguillage
+
+### Fils
+
+### fiches
+
 
 
