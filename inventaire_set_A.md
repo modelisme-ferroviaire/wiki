@@ -66,3 +66,42 @@ Forme d'onde à l'oscilloscope.
 #### Résultat
 
 L'alimentation fournit des valeurs de tension plus élevée qu'indiqué. Certains prétendent que le problème pourrait venir du fait qu'à l'époque, la tension du sectreur était de 220V, mais que depuis elle a été ramenée a 230V. Cette explication ne me convainc pas trop, dans la mesure ou, si on calcule rapidement le rapport de multiplication, on ne voit pas de telle différence. Tests à approfondir.
+
+### La locomotive vapeur
+
+
+#### Présentation
+La locomotive en question est une locomotive de gamme "junior" - ce qui signifie qu'elle est moins détaillée, donc moins fragile qu'une locomotive de gamme au dessus. Cependant, force est de constater que la qualité était là : bon niveau de détails, bonne tenue sur les rails, etc ...  ( TODO: Essayer de trouver la référence). Elle avait en avant une lampe, qui malhereusement n'a pas duré très longtemps.
+
+#### Etat de la locomotive
+Aujourd'hui elle est démontée (photo à montrer) : je suis en train de la nettoyer et de la graisser. De mémoire elle a deux problèmes : un problème de lampe, et un problème de pignon d'entrainement du moteur. Comme ça fait longtemps que je ne l'ai plus faite fonctionner je ne sais plus trop à ce niveau ce qui n'allait pas. Donc dans un premier temps je vais la remonter, et l'essayer sur un circuit de rails. De plus une des échelles latérales de la caisse est cassée : j'ai les morceaux mais je ne sais pas trop comment la recoller de façon à ce qu'elle tienne bien. Enfin, les attaches des wagons ont des petits soucis : des morceaux de plastique permettant de les maintenir en place sont cassés, et je devrai soit les remplacer, soit trouver un moyen de compenser ce manque.
+
+#### Reste à faire pour restaurer
+
+  - Nettoyage des pignons
+  - nettoyage des roues
+  - nettoyage moteur
+  - changer lampe
+  - regraisser pignons
+  - graisser axe roues
+  - remonter moteur
+  - remonter pignon
+  - remonter roues
+  - tester ensemble moteur+roues (vérifier entrainement)
+  - corriger problème de transmission s'il existe encore
+  - recoller échelle sur caisse
+  - remonter caisse
+  
+### Le wagon trémie
+
+### Le wagon tombereau
+
+### Le wagon citerne
+
+### Le rail d'alimentation
+
+### Les rails droits
+
+### Les rails courbes
+  
+### Elements de maintien des rails
