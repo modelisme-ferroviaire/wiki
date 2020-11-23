@@ -48,6 +48,10 @@ Charge 1A (Résistance xxx, YYY W)
 
 Forme d'onde a l'oscilloscope
 
+Il s'agit d'une tension alternative de x volts crête à crête (à vide), impossible de contrôler. Cette tension doit probablement être issue du secondaire du transfo,n avec probablement une protection contre les surintensités quelque part.
+
+[ TODO ] Mettre une image
+
 ##### Alimentation continue
 
 
@@ -57,6 +61,13 @@ Charge 5k
 Charge 1k
 
 Charge 1A (Résistance xxx, YYY W)
+
+Forme d'onde à l'oscilloscope.
+Tension de xx V redréssée (double alternance), mais non filtrée. Bon à savoir.
+
+Valeur RMS:
+Valeur Crête: 
+[ TODO ] Mettre une image
 
 Utilisation d'un moteur
 
