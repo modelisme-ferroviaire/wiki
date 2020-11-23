@@ -78,6 +78,11 @@ Forme d'onde à l'oscilloscope.
 
 L'alimentation fournit des valeurs de tension plus élevée qu'indiqué. Certains prétendent que le problème pourrait venir du fait qu'à l'époque, la tension du sectreur était de 220V, mais que depuis elle a été ramenée a 230V. Cette explication ne me convainc pas trop, dans la mesure ou, si on calcule rapidement le rapport de multiplication, on ne voit pas de telle différence. Tests à approfondir.
 
+
+#### Comparaison avec une autre alimentatio plus moderne
+
+#### Y a-t-il des risques à utiliser ce transfo ?
+
 ### La locomotive vapeur
 
 
