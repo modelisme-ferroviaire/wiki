@@ -90,7 +90,8 @@ Plusieurs d'entre eux sont cassés, je vais devoir les remplacer également.
 
 ### fiches
 
-
+# Inventaire détaillé
+[Inventaire set A](inventaire_set_A.md)
 # Stratégie de restauration 
 
 ## Terminer le nettoyage de la locomotive
