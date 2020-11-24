@@ -1,6 +1,6 @@
-# Inventaire et état des lieux du set A
+# Inventaire et état des éléments du set A
 
-## Composition du set A
+## Composition 
 
   - 1 transfo 
   - 1 locomotive vapeur
@@ -28,7 +28,7 @@ Chaque voie (continue ou alternative) est limitée à 1 ampère. La limite de pu
 
 Un rheostat permettait de régler le sens de circulation ainsi que la vitesse du train.
 
-Note : Pour avoir connu le même type de matériel fourni par Jouef, je peuyx dire que le matériel Roco à l'époque était de bien meilleure qualité.
+Note : Pour avoir connu le même type de matériel fourni par Jouef, je peux dire que le matériel Roco à l'époque était de bien meilleure qualité.
 
 J'ai regardé comment l'ouvrir, pour vérifier la protection contre les courts-circuits mais je n'y suis pas encore parvenu (je risque d'endommager le boitier, et je n'y tiens pas). Il faudra dnc que je trouve un autre moyen  de tester ce point.
 
@@ -76,7 +76,7 @@ Forme d'onde à l'oscilloscope.
 
 #### Résultat
 
-L'alimentation fournit des valeurs de tension plus élevée qu'indiqué. Certains prétendent que le problème pourrait venir du fait qu'à l'époque, la tension du sectreur était de 220V, mais que depuis elle a été ramenée a 230V. Cette explication ne me convainc pas trop, dans la mesure ou, si on calcule rapidement le rapport de multiplication, on ne voit pas de telle différence. De plus j'ai effectué une mesure de la tension d'alimentation secteur au multimètre, et j'ai bien 220V. Le problème doit venir d'ailleurs.
+L'alimentation fournit des valeurs de tension plus élevée qu'indiqué. Certains prétendent que le problème pourrait venir du fait qu'à l'époque, la tension du sectreur était de 220V, mais que depuis elle a été ramenée a 230V. Cette explication ne me convainc pas trop, dans la mesure ou, si on calcule rapidement le rapport de multiplication, on ne voit pas de telle différence. De plus j'ai effectué une mesure de la tension d'alimentation secteur au multimètre, et j'ai bien 220V. Le problème doit venir d'ailleurs (probablement du type de tension dont on parle : tension efficace, crête à crete, etc .... j'ai un boulot de recherche à faire !!!).
 
 
 #### Comparaison avec une autre alimentatio plus moderne
