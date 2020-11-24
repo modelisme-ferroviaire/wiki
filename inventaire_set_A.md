@@ -76,10 +76,29 @@ Forme d'onde à l'oscilloscope.
 
 #### Résultat
 
-L'alimentation fournit des valeurs de tension plus élevée qu'indiqué. Certains prétendent que le problème pourrait venir du fait qu'à l'époque, la tension du sectreur était de 220V, mais que depuis elle a été ramenée a 230V. Cette explication ne me convainc pas trop, dans la mesure ou, si on calcule rapidement le rapport de multiplication, on ne voit pas de telle différence. Tests à approfondir.
+L'alimentation fournit des valeurs de tension plus élevée qu'indiqué. Certains prétendent que le problème pourrait venir du fait qu'à l'époque, la tension du sectreur était de 220V, mais que depuis elle a été ramenée a 230V. Cette explication ne me convainc pas trop, dans la mesure ou, si on calcule rapidement le rapport de multiplication, on ne voit pas de telle différence. De plus j'ai effectué une mesure de la tension d'alimentation secteur au multimètre, et j'ai bien 220V. Le problème doit venir d'ailleurs.
 
 
 #### Comparaison avec une autre alimentatio plus moderne
+
+##### Modèle
+
+Il s'agit d'une aliemntation fournie avec le coffret Thalys MEHANO (que l'on trouve souvent aux périodes de fêtes pour moins de 100 euros). 
+L'alimentation est composée en deux blocs :
+  - un bloc de transformation 220 => 16v alternatif 500 mA 8 vA
+  - un bloc régulateur/vbariateur permettant de fournir une tension continue variable de 0 à 13v, 400mA 5,2w (modè-le F370)
+  
+La mesure au multimètre indique que le secondaire du transfo fournit une tension de 18,5v
+La mesure a l'oscilloscope montre une tension secondaire non filtré a 17,5V (approximativement, l'oscilloscope n'étant pas en mesure d'afficher clairement le signal, qui a l'air de dépasser légèrement ses caractéristiques d'entrée), alternative à 50 Hz.
+ 
+La tension a vide mesurée sur le secondaire est de +21,2v ou -21,2v en fonction du sens de circulation (éleé par rapport aux 13V annoncés !!!). La mesure à l'oscilloscope montre une tension redressée et filtrée, contrairement à l'ancienne alim qui ne se contentait que de redresser le courant.
+
+En y branchant un moteur (motoréducteur) comme charge, la tension redescend à plus ou moins 18,4V selon le sens de rotation (ça reste beaucoup !!!). Elle reste relativement stable lorsqu'on l'observe à l'oscilloscope (on voit quand même certains parasites à haute fréquence, mais un condensateur bien choisi devrait régler ces problèmes - ça fera l'objet d'un autre article).
+
+Je vais tenter de trouver une charge de type résistive pour tester un peu plus en profondeur ...
+
+
+
 
 #### Y a-t-il des risques à utiliser ce transfo ?
 
