@@ -102,6 +102,10 @@ Je vais tenter de trouver une charge de type résistive pour tester un peu plus 
 
 #### Y a-t-il des risques à utiliser ce transfo ?
 
+A première vue, je dirais que pour le matériel un peu ancien (mon ancien train, ou d'autres anciens trains Jouef), le risque est plutôt limité : ce matériel n'est équipé que d'un moteur et éventuellement d'une lampe (la tension élevée est peut-être la raison qui fait que la lampe de mon premier train a vite grillé ?). De plus il y a un calcul et une mesure que je n'ai pas réellement faite, c'est celui de la tension efficace (ou RMS - a vérifier) qui peut être plus basse et plus conforme à la signalisation de la plaque de transf (recherches à faire). Par contre pour le matériel un peu plus récent, je suis plus septique : j'ai vu que de nos jours, certaines locomotives sont équipées d'une circuiterie electronique (mais qu n'est paut-être utile que lorsqu'on leur insert un décodeur digital ?). Quoi qu'il en soit je pense que tant que je n'aurai pas vérifié un certain nombre de points, je n'utiliserai pas ces alimentation au maximum de leur capacité. Je pense même leur ajouter un circuit de mesure de la tension de sortie (articlez à venir), et j'éviterai d'utiliser la loco roco sans avoir vériié s'il y a un risque pour le matériel récent à l'utiliser.
+
+
+
 ### La locomotive vapeur
 
 
