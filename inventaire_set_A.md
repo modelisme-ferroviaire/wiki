@@ -78,6 +78,11 @@ Forme d'onde à l'oscilloscope.
 
 L'alimentation fournit des valeurs de tension plus élevée qu'indiqué. Certains prétendent que le problème pourrait venir du fait qu'à l'époque, la tension du sectreur était de 220V, mais que depuis elle a été ramenée a 230V. Cette explication ne me convainc pas trop, dans la mesure ou, si on calcule rapidement le rapport de multiplication, on ne voit pas de telle différence. De plus j'ai effectué une mesure de la tension d'alimentation secteur au multimètre, et j'ai bien 220V. Le problème doit venir d'ailleurs (probablement du type de tension dont on parle : tension efficace, crête à crete, etc .... j'ai un boulot de recherche à faire !!!).
 
+Note : d'après https://sonelec-musique.com/electronique_theorie_transfo.html, une mine d'or pour qui veut des infos sur l'électronique, "le secondaire d'un transformateur d'alimentation peut délivrer une tension supérieure à celle annoncée. En règle générale, la tension spécifiée (vendue) est celle obtenue quand on demande son maximum au transformateur, c'est à dire que **son courant secondaire correspond à la valeur max pour laquelle il est vendu**. Cela implique la plupart du temps une tension plus élevée quand on demande moins que le courant max. **La tension maximale est obtenue à vide**, c'est à dire quand le secondaire n'est relié à rien, et **peut atteindre une valeur de 10% à 30% supérieure à la valeur nominale**. La différence entre tension en charge (secondaire branché à un circuit qui consomme du courant) et tension à vide (secondaire non raccordé) est **d'autant plus importante que la puissance du transformateur est faible.** 
+
+Ce point a été abordé au lycée quand j'étais en première ou terminale (d'ou mon intéret de comparer la tension à vide), mais je ne m'en rappelais plus exactement le pourquoi du comment (ce n'est pas pour rien que plus haut j'ai mentionné les mesures de tension à vide : il y avait un souvenir encore dans ma tête mais pas net au point de me rappeler exactement le pourquoi du comment).
+
+
 
 #### Comparaison avec une autre alimentatio plus moderne
 
@@ -91,7 +96,7 @@ L'alimentation est composée en deux blocs :
 La mesure au multimètre indique que le secondaire du transfo fournit une tension de 18,5v
 La mesure a l'oscilloscope montre une tension secondaire non filtré a 17,5V (approximativement, l'oscilloscope n'étant pas en mesure d'afficher clairement le signal, qui a l'air de dépasser légèrement ses caractéristiques d'entrée), alternative à 50 Hz.
  
-La tension a vide mesurée sur le secondaire est de +21,2v ou -21,2v en fonction du sens de circulation (éleé par rapport aux 13V annoncés !!!). La mesure à l'oscilloscope montre une tension redressée et filtrée, contrairement à l'ancienne alim qui ne se contentait que de redresser le courant.
+La tension a vide mesurée sur le secondaire est de +21,2v ou -21,2v en fonction du sens de circulation (élevé par rapport aux 13V annoncés !!!). La mesure à l'oscilloscope montre une tension redressée et filtrée, contrairement à l'ancienne alim qui ne se contentait que de redresser le courant.
 
 En y branchant un moteur (motoréducteur) comme charge, la tension redescend à plus ou moins 18,4V selon le sens de rotation (ça reste beaucoup !!!). Elle reste relativement stable lorsqu'on l'observe à l'oscilloscope (on voit quand même certains parasites à haute fréquence, mais un condensateur bien choisi devrait régler ces problèmes - ça fera l'objet d'un autre article).
 
