@@ -154,9 +154,12 @@ Les fils d'limentation se connectent sur les bornes via des vis. ( vu la couleur
 
 Contrairement aux rails courbes, il m'est impossible d'identifier les rails droits d'origine du set A. Dans le set, il y avait deux rails référencés Roco 4402. PAs d'indicvation sur leur longueur mais il est facile de les mesurer : 22,9 cm de longueur. La largeur des traverses est de 2,95 cm. On trouv ces rails dans quasiment tous les coffrets complémentaires (seul le coffret D n'en a pas). Je prendrai donc deux rails au hasard et considèrerai que ces rails font partie du set A.
 
-
-
-
 #### Les rails courbes
-  
+
+Les rails courbes sont facilement identifiables car seul  le set A fournit les rails de ce rayon et de cet angle : rayon 358 mm, angle 30°). Il faut 6 rails de ce rayon pour faire un cercle. Le rayon est assez petit. J'ai essayé une fois de faire passer un Thalys Mehano dessus, mais la longueur des wagons TGV fait que ce n'est pas très beau (je ne sais pas si 2 tgv pourraient se croiser). Mais comme à l'origine le set accueille une locomotive et des wagons de petite taille, ce n'est pas grave. Je sais juste que je ne pourrai pas y faire passer de TGV !!! :).
+
+L'état de ces rails est semblable à celui des autres : un peu de noircissement et légère occidation, quelques rayures sur le dessous et probablement des morceaux extérieur de traverses qui ont du tomber (j'ai quelques rails comme ça).
+
+Comme pour les autres rails, un nettoyage et un dégraissage, et probablement un changement d'éclisses sera nécessaire.
+
 #### Elements de maintien des rails
