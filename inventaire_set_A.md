@@ -133,11 +133,21 @@ Aujourd'hui elle est démontée (photo à montrer) : je suis en train de la nett
   - corriger problème de transmission s'il existe encore
   - recoller échelle sur caisse
   - remonter caisse
-  
-### Le wagon trémie
+ 
+### Les wagons 
 
-Le wagon trémie 
-### Le wagon tombereau
+#### Le wagon trémie
+
+Le wagon trémie n'a pas forcément bien vieilli non plus. Il était composé d'un chassis et d'une trémie rouge amovible. Cette trémie pouvait basculer. J'ai retrouvé le chassis, mais pas la trémie. Les essieux sont en bon état, mais e dessus du chassis est un peu courbé. Il y a probablement une plaque de métal à l'intérieur pour le lester  (j'en déduis ça au poids de l'objet). Peut-être la plaque a-t-elle plié ? Il n'y a qu'une seule marche d'un côté. l'autre côté est probablement cassée, mais la trace est difficile à voir. Comme j'ai retroué un wagon équivalent sur ebay, he ferai ue comparaison des deux élémants pour voir si ça manque réellement. Si le manque de marche ne gène pas l'apparence des wagons, je ne la remplacerai pas. JE risque d'empirer l'état général plutôt que de l'améliorer.
+
+liste des problèmes constatés :
+
+  - manque la trémie
+  - chassis bombé
+  - manque aparamment une marche
+  - vérifier l'état de la plaque à l'intérieur.
+  
+#### Le wagon tombereau
 
 Le wagon tombereau est peut être le wagon qui est resté dans le meilleur état. Il a néamoins perdu le système permettant de fixer 'attache au wagon, et je l'ai remplacé à l'époque par une vis que j'avais sous la main ... Ca tient, mais la vis ressort beaucoup sur le dessous du wagon. Elle risque d'entrer en contact avec certains éléments tels que les éléménts permettant de détacher les wagons dans les sets D et E.
 
@@ -156,7 +166,7 @@ Liste des problèmes constatés :
   - poussière a l'intérieur.
 
 
-### Le wagon citerne
+#### Le wagon citerne
 
 Je n'arrive plus à mettre la main dessus .... Le seul élément que j'ai trouvé est l'espèce de passerelle ou balcon permettant d'accéder à l'ouverture du haut du wagon, et cet élément est en piteux état. En attendant de le retrouvr, j'ai acheté un remplaçant identique sur ebay. Mais il est possible que je ne le retrouve jamais: à un moment je suis tombé dessus et me suis demandé si j'allais le garder ou non. Peut être que je m'en suis débarassé. Au pire si je le retrouve, je ferai une mise à jour ici.
 
