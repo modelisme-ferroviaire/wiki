@@ -186,7 +186,7 @@ Contrairement aux rails courbes, il m'est impossible d'identifier les rails droi
 
 Les rails courbes sont facilement identifiables car seul  le set A fournit les rails de ce rayon et de cet angle : rayon 358 mm, angle 30°). Il faut 6 rails de ce rayon pour faire un cercle. Le rayon est assez petit. J'ai essayé une fois de faire passer un Thalys Mehano dessus, mais la longueur des wagons TGV fait que ce n'est pas très beau (je ne sais pas si 2 tgv pourraient se croiser). Mais comme à l'origine le set accueille une locomotive et des wagons de petite taille, ce n'est pas grave. Je sais juste que je ne pourrai pas y faire passer de TGV !!! :).
 
-L'état de ces rails est semblable à celui des autres : un peu de noircissement et légère occidation, quelques rayures sur le dessous et probablement des morceaux extérieur de traverses qui ont du tomber (j'ai quelques rails comme ça).
+L'état de ces rails est semblable à celui des autres : un peu de noircissement et légère oxydation, quelques rayures sur le dessous et probablement des morceaux extérieur de traverses qui ont du tomber (j'ai quelques rails comme ça).
 
 Comme pour les autres rails, un nettoyage et un dégraissage, et probablement un changement d'éclisses sera nécessaire.
 
