@@ -142,10 +142,18 @@ Aujourd'hui elle est démontée (photo à montrer) : je suis en train de la nett
 
 ### Le wagon citerne
 
-### Le rail d'alimentation
+### Les rails 
 
-### Les rails droits
+#### Le rail d'alimentation
 
-### Les rails courbes
+Le rail d'alimentation est un rail courbe (ref Roco 4562). Le rayon et l'angle de ce rail sont identiques à ceux des 5 autres rails courbes du coffret, la seule différence avec ceux-ci etant la présence de bornes d'alimentation. 
+
+Les fils d'limentation se connectent sur les bornes via des vis. ( vu la couleur, les bornes et les vis sont probablement en laiton). La connection aux rails se fait en dessous de deux traverses (voir photo). Bornes et vis ont un peu noirci, il faudra que je les nettoie un peu, comme les rails en eux même qui laissent apparaître quelques traces (les traces habituelles que l'(non trouve sur les rails qui ont été utilisés). Je pense que je devrai également changer les éclisses.
+
+
+#### Les rails droits
+
+
+#### Les rails courbes
   
-### Elements de maintien des rails
+#### Elements de maintien des rails
