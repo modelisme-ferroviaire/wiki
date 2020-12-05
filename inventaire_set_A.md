@@ -248,16 +248,18 @@ Nécessaire à commander :
       - connecteur entre fils
       
 Par quoi commencer ?
-    - Loco
-      1. Terminer le nettoyage (dégraisser, désoxyder les contacts, ...)
-      2. Remettre de l'huile
-      3. Remonter les éléments
-      4. Graisser les pignons
-      5. Huiler les essieux
-      6. Changer les attelages
-      7. Réparer les marches
-      8. Changer la lampe
+- Loco
+  1. Terminer le nettoyage (dégraisser, désoxyder les contacts, ...)
+  2. Remettre de l'huile
+  3. Remonter les éléments
+  4. Graisser les pignons
+  5. Huiler les essieux
+  6. Changer les attelages
+  7. Réparer les marches
+  8. Changer la lampe
       
-    2. Nettoyer les rails
-    3. Remplacer les éclisses
+- Rails
+  1. Nettoyer
+  2. désoxyder
+  3. Remplacer les éclisses
     
