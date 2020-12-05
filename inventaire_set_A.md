@@ -158,6 +158,8 @@ Liste des problèmes constatés :
 
 ### Le wagon citerne
 
+Je n'arrive plus à mettre la main dessus .... Le seul élément que j'ai trouvé est l'espèce de passerelle ou balcon permettant d'accéder à l'ouverture du haut du wagon, et cet élément est en piteux état. En attendant de le retrouvr, j'ai acheté un remplaçant identique sur ebay. Mais il est possible que je ne le retrouve jamais: à un moment je suis tombé dessus et me suis demandé si j'allais le garder ou non. Peut être que je m'en suis débarassé. Au pire si je le retrouve, je ferai une mise à jour ici.
+
 ### Les rails 
 
 #### Le rail d'alimentation
