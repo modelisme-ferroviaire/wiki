@@ -172,16 +172,35 @@ Je n'arrive plus à mettre la main dessus .... Le seul élément que j'ai trouv�
 
 ### Les rails 
 
+Liste des problèmes constatés :
+
+  - Oxydation
+  - éclisses
+  - traverses
+  - traces noires sur le dessus
+  - rayures en dessous
+  
 #### Le rail d'alimentation
 
 Le rail d'alimentation est un rail courbe (ref Roco 4562). Le rayon et l'angle de ce rail sont identiques à ceux des 5 autres rails courbes du coffret, la seule différence avec ceux-ci etant la présence de bornes d'alimentation. 
 
 Les fils d'limentation se connectent sur les bornes via des vis. ( vu la couleur, les bornes et les vis sont probablement en laiton). La connection aux rails se fait en dessous de deux traverses (voir photo). Bornes et vis ont un peu noirci, il faudra que je les nettoie un peu, comme les rails en eux même qui laissent apparaître quelques traces (les traces habituelles que l'(non trouve sur les rails qui ont été utilisés). Il y a aussi quelques rayures sur les traverses par le dessous. Je pense que je devrai également changer les éclisses. Cela dit pour un rail d'au moins 25 ans, il est en très bon état (bien meilleur que des rails Jouef ou Mehano pluis récents).
 
+Liste des problèmes constatés :
+
+  - comme les rails en général
+  - vis et cosses de prise de courant noircies
+  - Oxydation et rayures sur les lamelles d'alimentation
+  - cosses à changer
+  
 #### Les rails droits
 
 Contrairement aux rails courbes, il m'est impossible d'identifier les rails droits d'origine du set A. Dans le set, il y avait deux rails référencés Roco 4402. PAs d'indicvation sur leur longueur mais il est facile de les mesurer : 22,9 cm de longueur. La largeur des traverses est de 2,95 cm. On trouv ces rails dans quasiment tous les coffrets complémentaires (seul le coffret D n'en a pas). Je prendrai donc deux rails au hasard et considèrerai que ces rails font partie du set A.
 
+Liste des problèmes constatés :
+
+  - comme les rails en général
+  
 #### Les rails courbes
 
 Les rails courbes sont facilement identifiables car seul  le set A fournit les rails de ce rayon et de cet angle : rayon 358 mm, angle 30°). Il faut 6 rails de ce rayon pour faire un cercle. Le rayon est assez petit. J'ai essayé une fois de faire passer un Thalys Mehano dessus, mais la longueur des wagons TGV fait que ce n'est pas très beau (je ne sais pas si 2 tgv pourraient se croiser). Mais comme à l'origine le set accueille une locomotive et des wagons de petite taille, ce n'est pas grave. Je sais juste que je ne pourrai pas y faire passer de TGV !!! :).
@@ -190,7 +209,11 @@ L'état de ces rails est semblable à celui des autres : un peu de noircissement
 
 Comme pour les autres rails, un nettoyage et un dégraissage, et probablement un changement d'éclisses sera nécessaire.
 
-#### Elements de maintien des rails
+Liste des problèmes constatés :
+
+  - comme les rails en général
+
+## Elements de maintien des rails
 
 Le set A était composé également de petits éléments plastique permettant de garder les rails maintenu ensemble. Seul le coffret A disposait de ces éléments. Les autress set ne les fournissaient plus. Probablement parce que l'ensemble est destiné à être fixé sur un élément stable. Ces éléments rendaient deux rails solidaires l'un de l'autre en se fixant sur les traverses situées juste à la jointure des rails. Il ne m'en reste qu'une seule.
 
