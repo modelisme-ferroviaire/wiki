@@ -163,3 +163,5 @@ L'état de ces rails est semblable à celui des autres : un peu de noircissement
 Comme pour les autres rails, un nettoyage et un dégraissage, et probablement un changement d'éclisses sera nécessaire.
 
 #### Elements de maintien des rails
+
+Le set A était composé également de petits éléments plastique permettant de garder les rails maintenu ensemble. Seul le coffret A disposait de ces éléments. Les autress set ne les fournissaient plus. Probablement parce que l'ensemble est destiné à être fixé sur un élément stable.
