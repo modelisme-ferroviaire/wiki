@@ -248,6 +248,15 @@ Nécessaire à commander :
       - connecteur entre fils
       
 Par quoi commencer ?
+
+Commencer par les rails, transfo et alimentation. En parallèle, pourquoi ne pas s'occuper de la loco, cependant, restaurer les rails permettra de tester/roder d'autres locos.
+    
+- Rails
+  1. Nettoyer
+  2. désoxyder
+  3. Remplacer les éclisses
+  
+
 - Loco
   1. Terminer le nettoyage (dégraisser, désoxyder les contacts, ...)
   2. Remettre de l'huile
@@ -257,9 +266,7 @@ Par quoi commencer ?
   6. Changer les attelages
   7. Réparer les marches
   8. Changer la lampe
-      
-- Rails
-  1. Nettoyer
-  2. désoxyder
-  3. Remplacer les éclisses
+  
+- wagons
+
     
