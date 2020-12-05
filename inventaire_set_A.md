@@ -145,6 +145,16 @@ Il y a quelques marques de casse et un eu de poussière, et par le dessous on pe
 
 Les essieux ont, eux non plus, pas trop souffert. On voit qu'iols ne sont pas neufs mais ça ne pose pas problème. Je passerai un peu de temps à le déonter, nettoyer les parties plastiques et désoxyder la plaque à l'intérieur. Afin d'avoir un modèle de wagon en bon état, je m'en suis procuré un identique (enfin presque) sur ebay. Ca me donnera peut-être des idées pour restaurer les parties déteriorées.
 
+Liste des problèmes constatés :
+
+  - Attaches fixée avec une vis qui dépasse au lieu d'un morceau de plastique (nom à trouver).
+  - l'attache fixée par la vis a perdu la pointe permettant de s'attacher à un autre wagon
+  - plaque à l'intérieur oxydée
+  - marche sur cassée
+  - partie marron aux extrémités cassée d'un côté, fragilisée de l'autre
+  - tampon cassé
+  - poussière a l'intérieur.
+
 
 ### Le wagon citerne
 
