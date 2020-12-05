@@ -164,4 +164,4 @@ Comme pour les autres rails, un nettoyage et un dégraissage, et probablement un
 
 #### Elements de maintien des rails
 
-Le set A était composé également de petits éléments plastique permettant de garder les rails maintenu ensemble. Seul le coffret A disposait de ces éléments. Les autress set ne les fournissaient plus. Probablement parce que l'ensemble est destiné à être fixé sur un élément stable.
+Le set A était composé également de petits éléments plastique permettant de garder les rails maintenu ensemble. Seul le coffret A disposait de ces éléments. Les autress set ne les fournissaient plus. Probablement parce que l'ensemble est destiné à être fixé sur un élément stable. Ces éléments rendaient deux rails solidaires l'un de l'autre en se fixant sur les traverses situées juste à la jointure des rails. Il ne m'en reste qu'une seule.
