@@ -148,10 +148,13 @@ Aujourd'hui elle est démontée (photo à montrer) : je suis en train de la nett
 
 Le rail d'alimentation est un rail courbe (ref Roco 4562). Le rayon et l'angle de ce rail sont identiques à ceux des 5 autres rails courbes du coffret, la seule différence avec ceux-ci etant la présence de bornes d'alimentation. 
 
-Les fils d'limentation se connectent sur les bornes via des vis. ( vu la couleur, les bornes et les vis sont probablement en laiton). La connection aux rails se fait en dessous de deux traverses (voir photo). Bornes et vis ont un peu noirci, il faudra que je les nettoie un peu, comme les rails en eux même qui laissent apparaître quelques traces (les traces habituelles que l'(non trouve sur les rails qui ont été utilisés). Je pense que je devrai également changer les éclisses.
-
+Les fils d'limentation se connectent sur les bornes via des vis. ( vu la couleur, les bornes et les vis sont probablement en laiton). La connection aux rails se fait en dessous de deux traverses (voir photo). Bornes et vis ont un peu noirci, il faudra que je les nettoie un peu, comme les rails en eux même qui laissent apparaître quelques traces (les traces habituelles que l'(non trouve sur les rails qui ont été utilisés). Il y a aussi quelques rayures sur les traverses par le dessous. Je pense que je devrai également changer les éclisses. Cela dit pour un rail d'au moins 25 ans, il est en très bon état (bien meilleur que des rails Jouef ou Mehano pluis récents).
 
 #### Les rails droits
+
+Contrairement aux rails courbes, il m'est impossible d'identifier les rails droits d'origine du set A. Dans le set, il y avait deux rails référencés Roco 4402. PAs d'indicvation sur leur longueur mais il est facile de les mesurer : 22,9 cm de longueur. La largeur des traverses est de 2,95 cm. On trouv ces rails dans quasiment tous les coffrets complémentaires (seul le coffret D n'en a pas). Je prendrai donc deux rails au hasard et considèrerai que ces rails font partie du set A.
+
+
 
 
 #### Les rails courbes
