@@ -193,3 +193,17 @@ Comme pour les autres rails, un nettoyage et un dégraissage, et probablement un
 #### Elements de maintien des rails
 
 Le set A était composé également de petits éléments plastique permettant de garder les rails maintenu ensemble. Seul le coffret A disposait de ces éléments. Les autress set ne les fournissaient plus. Probablement parce que l'ensemble est destiné à être fixé sur un élément stable. Ces éléments rendaient deux rails solidaires l'un de l'autre en se fixant sur les traverses situées juste à la jointure des rails. Il ne m'en reste qu'une seule.
+
+# Tableau récapitulatif des éléments à vérifier/changer
+| Element |
+|--
+| Alimentation | 
+| Locomotive |
+| Wagon tombereau |
+| Wagon trémie |
+| Wagon citerne |
+| Rails droits |
+| Rails courbes |
+| Rails d'alimentation |
+| cable d'alimentation des rails |
+| Elements de maintien des rails |
