@@ -103,8 +103,6 @@ En y branchant un moteur (motoréducteur) comme charge, la tension redescend à 
 Je vais tenter de trouver une charge de type résistive pour tester un peu plus en profondeur ...
 
 
-
-
 #### Y a-t-il des risques à utiliser ce transfo ?
 
 A première vue, je dirais que pour le matériel un peu ancien (mon ancien train, ou d'autres anciens trains Jouef), le risque est plutôt limité : ce matériel n'est équipé que d'un moteur et éventuellement d'une lampe (la tension élevée est peut-être la raison qui fait que la lampe de mon premier train a vite grillé ?). De plus il y a un calcul et une mesure que je n'ai pas réellement faite, c'est celui de la tension efficace (ou RMS - a vérifier) qui peut être plus basse et plus conforme à la signalisation de la plaque de transf (recherches à faire). Par contre pour le matériel un peu plus récent, je suis plus septique : j'ai vu que de nos jours, certaines locomotives sont équipées d'une circuiterie electronique (mais qu n'est paut-être utile que lorsqu'on leur insert un décodeur digital ?). Quoi qu'il en soit je pense que tant que je n'aurai pas vérifié un certain nombre de points, je n'utiliserai pas ces alimentation au maximum de leur capacité. Je pense même leur ajouter un circuit de mesure de la tension de sortie (articlez à venir), et j'éviterai d'utiliser la loco roco sans avoir vériié s'il y a un risque pour le matériel récent à l'utiliser.
@@ -138,7 +136,15 @@ Aujourd'hui elle est démontée (photo à montrer) : je suis en train de la nett
   
 ### Le wagon trémie
 
+Le wagon trémie 
 ### Le wagon tombereau
+
+Le wagon tombereau est peut être le wagon qui est resté dans le meilleur état. Il a néamoins perdu le système permettant de fixer 'attache au wagon, et je l'ai remplacé à l'époque par une vis que j'avais sous la main ... Ca tient, mais la vis ressort beaucoup sur le dessous du wagon. Elle risque d'entrer en contact avec certains éléments tels que les éléménts permettant de détacher les wagons dans les sets D et E.
+
+Il y a quelques marques de casse et un eu de poussière, et par le dessous on peut constater qu'il y a une plaque de métal ( qui s'est un peu oxydée) dans le wagon. Cette plaque permet de lester ce dernier de façon à éviter les déraillages.  L'état général du wagon est plutôt bon : le wagon peut rouler, et j'essaierai de trouver un moyen de réparer ou de cacher la casse. J'essaierai également de sortir la plaque pour enlever la rouyille dessus, et éventuellement lui appliquer une peinture anti rouille. Il a juste besoin d'un petit nettoyage.
+
+Les essieux ont, eux non plus, pas trop souffert. On voit qu'iols ne sont pas neufs mais ça ne pose pas problème. Je passerai un peu de temps à le déonter, nettoyer les parties plastiques et désoxyder la plaque à l'intérieur. Afin d'avoir un modèle de wagon en bon état, je m'en suis procuré un identique (enfin presque) sur ebay. Ca me donnera peut-être des idées pour restaurer les parties déteriorées.
+
 
 ### Le wagon citerne
 
